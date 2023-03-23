@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.container {
+  background-color: #ffffff;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.country {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.sub-list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 10px;
+}
+.logo {
+  height: 20px;
+  width: 20px;
+}

@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.listItem {
+  list-style-type: none;
+}
+
+.title {
+  font-size: 20px;
+  font-family: 'Open Sans';
+  font-weight: 600;
+  text-align: center;
+}
+.img {
+  height: 150px;
+  width: 150px;
+}
